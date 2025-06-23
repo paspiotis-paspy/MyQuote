@@ -1,4 +1,3 @@
-
 // Array of inspirational quotes
 const quotes = [
   {
